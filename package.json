@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "snake-names": "^1.0.9"
+  },
+  "name": "node-snake-project",
+  "version": "1.0.0",
+  "description": "snake-names activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
